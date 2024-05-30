@@ -52,6 +52,7 @@ system.
 
 ## Version
 Version 1.0.4 - More languages added, added repository, added more Settings,..
+
 Version 1.0.3 - Fork from: https://github.com/abratchik/script.unlock.advancedsettings to: https://github.com/Project-Kodi/script.unlock.advancedsettings
 
 License: [GPL v.3](http://www.gnu.org/copyleft/gpl.html)
