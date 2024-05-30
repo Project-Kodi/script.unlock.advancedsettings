@@ -12,13 +12,14 @@ the XML, which is error-prone and not always convenient.
 This plugin enables editing of **advancedsettings.xml** similar to editing
 settings of any other plugin.
 
-## Installation 
-1. Download  [this file](https://abratchik.github.io/kodi.repository/matrix/repository.abratchik/repository.abratchik-1.0.2.zip)
-2. Navigate to **System/Add-ons/Install from the zip file** and 
-   specify the file downloaded on the previous step. 
-3. Navigate to **System/Add-ons/Alex Bratchik Kodi repository/
-   Program add-ons**, click on "Unlock Kodi Advanced Settings" and 
-   install it.
+## Installation
+
+
+1. Go to the Kodi file manager, click on "Add source".
+2. The path for the source is: https://Project-Kodi.github.io/ (Give it the name "Project Kodi Repository").
+3. Go to "Addons", in addons, install an addon from zip. When it asks for the location, select "Project Kodi Repository", and install repository.project.kodi-1.x.x.zip.
+4. Now the repository is available in Kodi, additionally, you should turn on automatic updating: Go to “Addons”, select “User Addons”, then “Addon Repository”, select “Project Kodi Repository” and activate automatic updating.
+5. Go to the Addon-Browser, select “Install from Repository”, select “Project Kodi Repository”, select “User Addons”, select “Programm-Addons”, select “Unlock Kodi Advanced Settings” and chooise “Install”. Additionallyactivate automatic updating!
    
 ## User manual
 Editing **advancedsettings.xml** is simple - just run the plugin. If you 
@@ -48,5 +49,9 @@ This plugin was created just fo fun and has no relation to official
 Kodi software. PLease know what you are doing and use at your own risk. 
 Author bears no liability for any changes made by this plugin in your 
 system.
+
+## Version
+Version 1.0.4 - More languages added, added repository, added more Settings,..
+Version 1.0.3 - Fork from: https://github.com/abratchik/script.unlock.advancedsettings to: https://github.com/Project-Kodi/script.unlock.advancedsettings
 
 License: [GPL v.3](http://www.gnu.org/copyleft/gpl.html)
