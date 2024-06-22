@@ -1,3 +1,7 @@
+
+> [!NOTE]
+> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
+
 # Unlock Kodi Advanced Settings
 
 This addon allows to unlock the power of hidden Kodi system settings and
