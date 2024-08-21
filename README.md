@@ -4,4 +4,4 @@
 
 
 > [!WARNING]
-> Download, Documentation & Support: <a href="https://tsdb.club/Thread-Kodi-Addon-Unlock-Kodi-Advanced-Settings-script-unlock-advancedsettings">[Kodi Addon] Unlock Kodi Advanced Settings - script.unlock.advancedsettings</a>
+> Download, Documentation & Support: <a href="https://tsdb.club/Thread-Support-Kodi-Addon-Unlock-Kodi-Advanced-Settings-script-unlock-advancedsettings">Support: [Kodi Addon] Unlock Kodi Advanced Settings - script.unlock.advancedsettings</a>
